@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! I'm Avinash Dhakne</h1>
-<h3 align="center">A student perusing B. Tech in Computer Science in third year. I'm especially interested in machine learning and how it can be applied to solve real-world problems. I enjoy exploring different technologies. I'm always looking for new challenges and opportunities to improve my skills and knowledge.</h3>
+<h3 align="center">A student persuing B. Tech in Computer Science in third year. I'm especially interested in machine learning and how it can be applied to solve real-world problems. I enjoy exploring different technologies. I'm always looking for new challenges and opportunities to improve my skills and knowledge.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/avinash_s_dhakne/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/avinash-dhakne-a95909205/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@avinashdhakne) 
