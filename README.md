@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://github.com/avinashdhakne/avinashdhakne/blob/main/Avinash_intro.gif" width="1300px"></a></div>
 <div align="center"><h1>👩‍💻 Hi there! I'm Avinash Dhakne </h1></div>
 <!-- <h1 align="center">Hi there! I'm Avinash Dhakne</h1> -->
-<h3 align="center">A student pursuing B. Tech in Computer Science in third year. I'm especially interested in machine learning and how it can be applied to solve real-world problems. I enjoy exploring different technologies. I'm always looking for new challenges and opportunities to improve my skills and knowledge.</h3>
+<h3 align="center">A student pursuing B. Tech in Computer Science in third year. I'm especially interested in machine learning and how it can be applied to solve real-world problems. I enjoy exploring different technologies. I always looking for new challenges and opportunities to improve my skills and knowledge.</h3>
 </br>
 
 ## 🌐 Socials:
