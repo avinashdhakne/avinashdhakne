@@ -1,10 +1,7 @@
-
 <div align="center"><h1>👋 Hi there! I'm Avinash </h1></div>
 
-<p>Software Engineer with 2+ years of experience working on enterprise applications, cloud environments, and large-scale financial systems. My experience spans backend services, APIs, cloud infrastructure, automation, and software quality, with a strong interest in building reliable and scalable software.</p>
-<p>I enjoy solving engineering problems, exploring new technologies, and building projects that combine practical software development with real-world impact.</p>
-</br>
-
+<h3>Software Engineer with 2+ years of experience working on enterprise applications, cloud environments, and large-scale financial systems. My experience spans backend services, APIs, cloud infrastructure, automation, and software quality, with a strong interest in building reliable and scalable software.</h3>
+<h3>I enjoy solving engineering problems, exploring new technologies, and building projects that combine practical software development with real-world impact.</h3>
 
 # 🌐 Socials:
 <p>
@@ -44,12 +41,15 @@
 # ⭐ GitHub Stats 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=avinashdhakne&show_icons=true&theme=github_dark" />
+</div>
+
+# 🔥 GitHub Streak
+  <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=avinashdhakne&theme=github-dark">
 </div>
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avinashdhakne&theme=github-dark)
 -->
-
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashdhakne&label=Profile%20views&color=0e75b6&style=flat" alt="avinashdhakne" /> </p>
 
